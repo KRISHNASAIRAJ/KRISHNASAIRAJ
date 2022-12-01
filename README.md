@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm KRISHNA SAI RAJ</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasairaj&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasairaj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/krishnasairaj_p" target="blank"><img src="https://img.shields.io/twitter/follow/krishnasairaj_p?logo=twitter&style=for-the-badge" alt="krishnasairaj_p" /></a> </p>
 
