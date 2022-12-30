@@ -2,9 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishnasairaj_p" target="blank"><img src="https://img.shields.io/twitter/follow/krishnasairaj_p?logo=twitter&style=for-the-badge" alt="krishnasairaj_p" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Python**
-
-- 💬 Ask me about **C Language**
+- 🌱 I’m currently learning **Flutter And Dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
