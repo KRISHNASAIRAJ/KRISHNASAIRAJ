@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Krishna Sai Raj Ponneboina</h1>
 <h3 align="center">Data Engineer Aspirant</h3>
 
-- 🌱 I’m currently learning **Java**
+Hello This is Ponneboina Krishnasairaj from SRM University AP
+
+Hey! there I'm an aspiring Data Engineer who loves exploring and learns the new things from different industries, people from different backgrounds and teams, or applications from different industries. I have strong technical skills, particularly in Python and Java, and an academic background in Data Structures.
+
+I'm graduating in 2025 and as of now I'm interested in learning things related to Big Data. I'm confident that my skills and experience would be a valuable asset to any team. I am looking for a position where I can use my skills and knowledge to make a positive impact on the world.
+
+Proficient: C,C++,Python,Java
+Knowledgeable: SQL,Html
+Familiar: CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
