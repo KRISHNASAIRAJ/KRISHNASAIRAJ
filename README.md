@@ -11,8 +11,6 @@ Proficient: C,C++,Python,Java,Linux
 Knowledgeable: SQL,Html
 Familiar: CSS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnasairaj" alt="krishnasairaj" /></a> </p>
-
 - 🌱 I’m currently learning **Big Data and Related**
 
 - 📝 I regularly write articles on [https://krishnasairajsbigdatainsights.blogspot.com/](https://krishnasairajsbigdatainsights.blogspot.com/)
