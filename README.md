@@ -14,6 +14,10 @@ Familiar: CSS
 - 🌱 I’m currently learning **Big Data and Related**
 
 - 📝 I regularly write articles on [https://krishnasairajsbigdatainsights.blogspot.com/](https://krishnasairajsbigdatainsights.blogspot.com/)
+<br>
+
+## My Badge Board
+[![An image of @krishnasairaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnasairaj)](https://holopin.io/@krishnasairaj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
