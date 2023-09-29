@@ -7,9 +7,7 @@ Hey! there I'm an aspiring Data Engineer who loves exploring and learns the new 
 
 I'm graduating in 2025 and as of now I'm interested in learning things related to Big Data. I'm confident that my skills and experience would be a valuable asset to any team. I am looking for a position where I can use my skills and knowledge to make a positive impact on the world.
 
-Proficient: C,C++,Python,Java,Linux
-Knowledgeable: SQL,Html
-Familiar: CSS
+Proficient in Python,Java,Linux,SQL
 
 - 🌱 I’m currently learning **Big Data and Related**
 
