@@ -3,11 +3,11 @@
 
 Hello This is Ponneboina Krishnasairaj from SRM University AP
 
-Hey! there I'm an aspiring Data Engineer who loves exploring and learns the new things. Got good exposure on different BigData frameworks (Hadoop, Spark, Hive, Kafka), Databases (MySQL), AWS Services (S3, Lambda, Glue, CloudWatch, SNS, SQS), Monitoring Tools (Airflow),Good command over programming languages (Python, Java, Shell Scripting) and Strong Data Structures & Algorithm fundamentals.
+Hey! there I'm an aspiring Data Engineer who loves exploring and learns the new things. Got good exposure on different BigData frameworks (Hadoop, Spark, Hive, Kafka), Databases (MySQL,MongoDB), AWS Services (S3, Lambda, Glue, CloudWatch, SNS, SQS, SES), Monitoring Tools (Airflow),Good command over programming languages (Python, Java, Shell Scripting) and Strong Data Structures & Algorithm fundamentals.
 
 </a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Databricks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
