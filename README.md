@@ -1,26 +1,56 @@
+<!-- <div align="center"> -->
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
 <h1 align="center">Hi 👋, I'm Krishna Sai Raj Ponneboina</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-Hello This is Ponneboina Krishnasairaj from SRM University AP
+<p>Hello, this is Ponneboina Krishnasairaj from SRM University AP</p>
 
-Hey! there I'm an aspiring Data Engineer who loves exploring and learns the new things. Got good exposure on different BigData frameworks (Hadoop, Spark, Hive, Kafka), Databases (MySQL,MongoDB), AWS Services (S3, Lambda, Glue, CloudWatch, SNS, SQS, SES), Monitoring Tools (Airflow),Good command over programming languages (Python, Java, Shell Scripting) and Strong Data Structures & Algorithm fundamentals.
+<p>I'm a dynamic data professional who can deliver tasks in data engineering and backend development. My passion is to work with my clients to provide high-quality, scalable data solutions that bring immediate and lasting benefit.</p>
 
-</a> </p>
+<p>I specialize in the following data solutions:</p>
+<ul>
+    <li>Building data warehouses using modern cloud platforms and technologies</li>
+    <li>Creating and automating data pipelines, real-time streaming & ETL processes</li>
+    <li>Building highly intuitive, interactive dashboards</li>
+    <li>Data Cleaning, Processing</li>
+    <li>Data Migration (Heterogenous and Homogenous)</li>
+    <li>Developing and deploying applications using Spring Boot and Docker</li>
+</ul>
 
-- 🌱 I’m currently learning **Databricks**
+<p>Some of the technologies I most frequently work with are:</p>
+<ul>
+    <li>☁️ Cloud: AWS, GCP</li>
+    <li>👨‍💻 Databases: BigQuery, MySQL, S3, DynamoDB, MongoDB</li>
+    <li>⚙️ Data Integration/ETL: AWS Glue, GCP DataProc</li>
+    <li>📊 BI/Visualization: Tableau, PowerBI, Google Looker Studio</li>
+    <li>🤖 Machine learning: Jupyter Notebook, Python, Pandas, Numpy, JS</li>
+    <li>🛠️ Application Development: Spring Boot, Docker, Microservices</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishnasairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnasairaj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishnasairaj_p1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishnasairaj_p1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishnasairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnasairaj" height="30" width="40" /></a>
+<h2 align="center">Leetcode Info<h2>
+
+
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/krishnasairaj?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=KRISHNASAIRAJ&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=KRISHNASAIRAJ&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNASAIRAJ&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+  <br/>
+
+<br/><br/>
 
 ## My Badge Board
 [![An image of @krishnasairaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnasairaj)](https://holopin.io/@krishnasairaj)
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnasairaj&show_icons=true&locale=en&layout=compact" alt="krishnasairaj" /></p>
